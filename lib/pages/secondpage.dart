@@ -30,7 +30,7 @@ class SecondPage extends StatelessWidget {
                 width: 20.0,
               ),
               const Text(
-                "Hiiii Bharati",
+                "Hiiii Bharati.....!!!",
                 style: TextStyle(
                   color: Colors.black,
                   fontSize: 20.0,
