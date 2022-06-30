@@ -25,7 +25,7 @@ class ThirdPage extends StatelessWidget {
               width: 20.0,
             ),
             const Text(
-              "Welcome,Kalpesh",
+              "Welcome,Kalpesh....!!",
               style:  TextStyle(
                 color: Colors.black,
                 fontSize: 20.0,
