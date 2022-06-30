@@ -26,7 +26,7 @@ class FirstPage extends StatelessWidget {
               width: 20.0,
             ),
             const Text(
-              "Welcome on aadrash sir page!!",
+              "Welcome,On aadrash sir page!!",
               style: TextStyle(fontSize: 20.0),
             ),
             const SizedBox(

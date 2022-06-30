@@ -10,7 +10,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return WillPopScope(
       onWillPop: () async {
-        print("bavk button pressed");
+        print("back button pressed");
         return false;
       },
       child: Scaffold(
