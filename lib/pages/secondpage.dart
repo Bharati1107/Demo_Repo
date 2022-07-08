@@ -11,7 +11,7 @@ class SecondPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return WillPopScope(
       onWillPop: () async {
-        print("back button pressed");
+        print("back button pressed and go to back");
         return true;
       },
       child: Scaffold(
