@@ -39,7 +39,7 @@ class FirstPage extends StatelessWidget {
                     padding: EdgeInsets.symmetric(
                         vertical: 50, horizontal: 40)),
                 RaisedButton(
-                  child: const Text("Next"),
+                  child: const Text("NextPage"),
                   onPressed: () {
                     Navigator.push(
                       context,
